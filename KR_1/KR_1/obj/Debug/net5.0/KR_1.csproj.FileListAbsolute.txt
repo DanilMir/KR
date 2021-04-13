@@ -1,0 +1,16 @@
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\bin\Debug\net5.0\KR_1.exe
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\bin\Debug\net5.0\KR_1.deps.json
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\bin\Debug\net5.0\KR_1.runtimeconfig.json
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\bin\Debug\net5.0\KR_1.runtimeconfig.dev.json
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\bin\Debug\net5.0\KR_1.dll
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\bin\Debug\net5.0\ref\KR_1.dll
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\bin\Debug\net5.0\KR_1.pdb
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\obj\Debug\net5.0\KR_1.csprojAssemblyReference.cache
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\obj\Debug\net5.0\KR_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\obj\Debug\net5.0\KR_1.AssemblyInfoInputs.cache
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\obj\Debug\net5.0\KR_1.AssemblyInfo.cs
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\obj\Debug\net5.0\KR_1.csproj.CoreCompileInputs.cache
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\obj\Debug\net5.0\KR_1.dll
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\obj\Debug\net5.0\ref\KR_1.dll
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\obj\Debug\net5.0\KR_1.pdb
+C:\Users\Danil Mirgayazov\RiderProjects\KR_1\KR_1\obj\Debug\net5.0\KR_1.genruntimeconfig.cache

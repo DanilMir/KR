@@ -1,0 +1,16 @@
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\bin\Debug\net5.0\K2_2.exe
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\bin\Debug\net5.0\K2_2.deps.json
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\bin\Debug\net5.0\K2_2.runtimeconfig.json
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\bin\Debug\net5.0\K2_2.runtimeconfig.dev.json
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\bin\Debug\net5.0\K2_2.dll
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\bin\Debug\net5.0\ref\K2_2.dll
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\bin\Debug\net5.0\K2_2.pdb
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\obj\Debug\net5.0\K2_2.csprojAssemblyReference.cache
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\obj\Debug\net5.0\K2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\obj\Debug\net5.0\K2_2.AssemblyInfoInputs.cache
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\obj\Debug\net5.0\K2_2.AssemblyInfo.cs
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\obj\Debug\net5.0\K2_2.csproj.CoreCompileInputs.cache
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\obj\Debug\net5.0\K2_2.dll
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\obj\Debug\net5.0\ref\K2_2.dll
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\obj\Debug\net5.0\K2_2.pdb
+C:\Users\Danil Mirgayazov\RiderProjects\K2_2\K2_2\obj\Debug\net5.0\K2_2.genruntimeconfig.cache
